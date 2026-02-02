@@ -1,0 +1,30 @@
+Buffs: {
+	DefensBuff: {
+		DisplayName: Defens Buff
+		Description: Mods.ModD.Buffs.DefensBuff.Description
+	}
+}
+
+Items: {
+	CursedStuff: {
+		DisplayName: Cursed Stuff
+		Tooltip: ""
+	}
+
+	VampireBlade: {
+		DisplayName: Vampire Blade
+		Tooltip: ""
+	}
+
+	TripleShootBow: {
+		DisplayName: Triple Shoot Bow
+		Tooltip: ""
+	}
+
+	TestBow: {
+		DisplayName: Test Bow
+		Tooltip: ""
+	}
+}
+
+Projectiles.FlailProjectile.DisplayName: Flail Projectile
