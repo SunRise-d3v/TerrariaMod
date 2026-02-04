@@ -5,11 +5,8 @@
 
 	<!-- General -->
 	<PropertyGroup>
-		
+
 	</PropertyGroup>
-	<ItemGroup>
-	  <Folder Include="Content\Buffs\" />
-	</ItemGroup>
 
 	<!-- References -->
 

@@ -25,6 +25,19 @@ Items: {
 		DisplayName: Test Bow
 		Tooltip: ""
 	}
+
+	Quietus: {
+		DisplayName: Quietus
+		Tooltip: ""
+	}
+
+	DragonSlayersBow: {
+		DisplayName: Dragon Slayers Bow
+		Tooltip: ""
+	}
 }
 
-Projectiles.FlailProjectile.DisplayName: Flail Projectile
+Projectiles: {
+	FlailProjectile.DisplayName: Flail Projectile
+	MeteoriteIdol.DisplayName: Meteorite Idol
+}
